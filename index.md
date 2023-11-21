@@ -312,4 +312,4 @@ If you have questions or suggestions on how to improve the information on this p
   <img align="center" width="50%" src="images/PullShark_Animated.gif">
 </div>
 
-# © 2023 Dawid Olko. All rights reserved. 
+# © 2023 Dawid Olko. All rights reserved.
