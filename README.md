@@ -324,6 +324,7 @@ If you have questions or suggestions on how to improve the information on this p
 ### the 'Open Sourcerer' achievement badges is not yet released to public GitHub users at the moment.
 
 <hr>
+
 <br>
 
 # Badges no longer earnable ❌
