@@ -20,6 +20,7 @@ redirect_to: achievements.dawidolko.pl
 #### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
 
 #### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+
 <br>
 # Achievement List 📃
 <br>
@@ -35,7 +36,6 @@ redirect_to: achievements.dawidolko.pl
 | ![Galaxy Brain](images/GalaxyBrain.png) | Galaxy Brain | Answered a discussion<br>(got an accepted answer) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="images/GalaxyBrain.png" width="60px"></td>  <td><img src="images/GalaxyBrain_Bronze.png" width="60px" align="center"></td>  <td><img src="images/GalaxyBrain_Silver.png" width="60px"></td>  <td><img src="images/GalaxyBrain_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td> <td align="center">8</td>  <td align="center">16</td>  <td align="center">32</td>  </tr>   </tbody>  </table>
 | ![YOLO](images/YOLO_Badge.png)                 | YOLO        | Merged a pull request without a review | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="images/YOLO_Badge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 | ![Public Sponsor](images/GitHubSponsorBadge.png)                 | Public Sponsor        | Sponsored an open source contributor through [GitHub Sponsors](https://github.com/sponsors) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="images/GitHubSponsorBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
-
 
 <br>
 
@@ -361,3 +361,4 @@ If you have questions or suggestions on how to improve the information on this p
 </div>
 
 # © 2023 Dawid Olko. All rights reserved.
+
